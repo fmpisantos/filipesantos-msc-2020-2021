@@ -1,0 +1,39 @@
+NIMA implementation:
+	https://github.com/idealo/image-quality-assessment
+	https://github.com/master/nima/blob/master/nima_test.py
+
+TODO:
+	- Test parameters / test phase described in preaparation
+	- Start writing
+
+Writing:
+	Cap2:
+		- Conjuntos de semelhança falar do hash e comparação de hashes
+			- https://link.springer.com/chapter/10.1007/978-3-319-61578-3_18
+			- https://ieeexplore.ieee.org/abstract/document/5413606
+			- https://ieeexplore.ieee.org/abstract/document/5380523
+			- https://link.springer.com/chapter/10.1007/978-3-642-24712-5_9
+		- Agrupamento supervisionado e nao supervisionado
+			- https://scikit-learn.org/stable/unsupervised_learning.html
+			- https://scikit-learn.org/stable/supervised_learning.html
+		- Brisque - Desenvolver
+			- https://ieeexplore.ieee.org/document/6272356
+			- https://learnopencv.com/image-quality-assessment-brisque/
+			- https://docs.opencv.org/4.5.2/d8/d99/classcv_1_1quality_1_1QualityBRISQUE.html
+			- https://www.sciencedirect.com/science/article/abs/pii/S0730725X17301340
+		- NIMA - Desenvolver
+			- https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html
+			- https://arxiv.org/pdf/1709.05424.pdf
+			- https://github.com/idealo/image-quality-assessment
+		- Etiquetação de fotografias Desenvolver
+			- https://cloud.google.com/vision/docs/labels
+	Cap3:
+		- Desenvolvimento:
+			- explicar o que fiz e o porque das minhas escolhas
+	Cap4:
+		- Testes e validação
+	Cap5:
+		- Trabalho futuro
+
+
+Used multiprocess in some cases and multithreading in others explain in document

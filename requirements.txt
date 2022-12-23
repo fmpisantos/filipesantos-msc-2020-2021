@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+pillow
+imagehash
+tensorflow-serving-api
+google-cloud-vision
+matplotlib
+sklearn

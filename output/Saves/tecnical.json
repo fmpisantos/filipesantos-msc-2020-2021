@@ -1,0 +1,102 @@
+[
+    {
+        "tecnical": 6.14,
+        "image_id": "image180Hue.jpg"
+    },
+    {
+        "tecnical": 6.09,
+        "image_id": "image100Saturation.jpg"
+    },
+    {
+        "tecnical": 5.93,
+        "image_id": "image50Saturation.jpg"
+    },
+    {
+        "tecnical": 5.83,
+        "image_id": "image-20Exposed.jpg"
+    },
+    {
+        "tecnical": 5.8,
+        "image_id": "image.jpg"
+    },
+    {
+        "tecnical": 5.73,
+        "image_id": "image-100Saturation.jpg"
+    },
+    {
+        "tecnical": 5.73,
+        "image_id": "imagered.jpg"
+    },
+    {
+        "tecnical": 5.73,
+        "image_id": "image-50Saturation.jpg"
+    },
+    {
+        "tecnical": 5.71,
+        "image_id": "image10Blur.jpg"
+    },
+    {
+        "tecnical": 5.69,
+        "image_id": "imagegreen.jpg"
+    },
+    {
+        "tecnical": 5.65,
+        "image_id": "image20Exposed.jpg"
+    },
+    {
+        "tecnical": 5.64,
+        "image_id": "image-50Exposed.jpg"
+    },
+    {
+        "tecnical": 5.58,
+        "image_id": "image50Exposed.jpg"
+    },
+    {
+        "tecnical": 5.46,
+        "image_id": "imageInvColours.jpg"
+    },
+    {
+        "tecnical": 5.45,
+        "image_id": "image20-20Noise.jpg"
+    },
+    {
+        "tecnical": 5.31,
+        "image_id": "image75Exposed.jpg"
+    },
+    {
+        "tecnical": 5.25,
+        "image_id": "imageblue.jpg"
+    },
+    {
+        "tecnical": 5.24,
+        "image_id": "image25Blur.jpg"
+    },
+    {
+        "tecnical": 5.12,
+        "image_id": "image-75Exposed.jpg"
+    },
+    {
+        "tecnical": 5.02,
+        "image_id": "image100-100Noise.jpg"
+    },
+    {
+        "tecnical": 4.91,
+        "image_id": "image-100Exposed.jpg"
+    },
+    {
+        "tecnical": 4.78,
+        "image_id": "image100Exposed.jpg"
+    },
+    {
+        "tecnical": 4.71,
+        "image_id": "image50-50Noise.jpg"
+    },
+    {
+        "tecnical": 4.69,
+        "image_id": "image75-75Noise.jpg"
+    },
+    {
+        "tecnical": 4.65,
+        "image_id": "image50Blur.jpg"
+    }
+]

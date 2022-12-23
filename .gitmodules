@@ -1,0 +1,6 @@
+[submodule "iqa"]
+	path = iqa
+	url = https://github.com/idealo/image-quality-assessment
+[submodule "brisq"]
+	path = brisq
+	url = https://github.com/fmpisantos/No-Reference-Image-Quality-Assessment-using-BRISQUE-Model.git

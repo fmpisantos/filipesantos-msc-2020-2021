@@ -1,0 +1,795 @@
+[
+    {
+        "brisque": 21.95725208397218,
+        "objects": [
+            "Bench - 0.7809576988220215",
+            "Table - 0.7628320455551147",
+            "Lighting - 0.5190588235855103"
+        ],
+        "labels": [
+            "Water - 0.9724223613739014",
+            "Sky - 0.9669997692108154",
+            "Daytime - 0.9446064829826355",
+            "Furniture - 0.9281857013702393",
+            "Outdoor bench - 0.9270784258842468",
+            "Shade - 0.9001575112342834",
+            "Table - 0.8988644480705261",
+            "Azure - 0.8981800675392151",
+            "Wood - 0.8851144909858704",
+            "Outdoor furniture - 0.8782001733779907"
+        ],
+        "image_id": "img_0581.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0581.jpg"
+    },
+    {
+        "brisque": 21.913858906375225,
+        "objects": [],
+        "labels": [
+            "Water - 0.975780725479126",
+            "Sky - 0.9553546905517578",
+            "Fluid - 0.8704184293746948",
+            "Natural landscape - 0.869513750076294",
+            "Plain - 0.7929614186286926",
+            "Wind wave - 0.7822340726852417",
+            "Landscape - 0.7760871648788452",
+            "Grass - 0.7735264897346497",
+            "Horizon - 0.7608652710914612",
+            "Plant - 0.7515025734901428"
+        ],
+        "image_id": "img_0575.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0575.jpg"
+    },
+    {
+        "brisque": 21.021891938154653,
+        "objects": [
+            "Shoe - 0.9446922540664673",
+            "Jeans - 0.8564912676811218",
+            "Person - 0.775489091873169",
+            "Footwear - 0.5748631358146667"
+        ],
+        "labels": [
+            "Shoe - 0.9570796489715576",
+            "Outerwear - 0.9527220129966736",
+            "Leg - 0.9368957877159119",
+            "Textile - 0.8764725923538208",
+            "Knee - 0.8715385794639587",
+            "Street fashion - 0.8576521873474121",
+            "Thigh - 0.8566166162490845",
+            "Knee-high boot - 0.855391263961792",
+            "Grey - 0.8420915007591248",
+            "Calf - 0.8219088912010193"
+        ],
+        "image_id": "img_0543.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0543.jpg"
+    },
+    {
+        "brisque": 20.909424254442996,
+        "objects": [
+            "Table - 0.8112580180168152",
+            "Bench - 0.5321511626243591"
+        ],
+        "labels": [
+            "Sky - 0.973103404045105",
+            "Water - 0.9678414463996887",
+            "Outdoor bench - 0.9081783890724182",
+            "Shade - 0.8980953097343445",
+            "Azure - 0.8927981853485107",
+            "Wood - 0.8761088848114014",
+            "Outdoor furniture - 0.8722915649414062",
+            "Lighting - 0.8673985600471497",
+            "Beach - 0.8426212668418884",
+            "Body of water - 0.8339743614196777"
+        ],
+        "image_id": "img_0580.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0580.jpg"
+    },
+    {
+        "brisque": 20.655404896568683,
+        "objects": [
+            "Sunglasses - 0.9159025549888611",
+            "Person - 0.9079581499099731",
+            "Outerwear - 0.8517545461654663"
+        ],
+        "labels": [
+            "Smile - 0.9828906059265137",
+            "Glasses - 0.9792036414146423",
+            "Vision care - 0.953903079032898",
+            "Hairstyle - 0.9509009122848511",
+            "Sunglasses - 0.9237405061721802",
+            "Eyewear - 0.9142351150512695",
+            "Textile - 0.8808508515357971",
+            "Fashion - 0.8775789141654968",
+            "Building - 0.8632698655128479",
+            "Goggles - 0.8367122411727905"
+        ],
+        "image_id": "img_0582.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0582.jpg"
+    },
+    {
+        "brisque": 20.429173059549242,
+        "objects": [
+            "Person - 0.9129232168197632",
+            "Clothing - 0.6408630013465881",
+            "Table top - 0.6112492680549622",
+            "Top - 0.5231776833534241"
+        ],
+        "labels": [
+            "Wood - 0.8108400106430054",
+            "Leisure - 0.8047816753387451",
+            "Roof - 0.7503567934036255",
+            "Fun - 0.7449918389320374",
+            "Electric blue - 0.7284929156303406",
+            "Fashion design - 0.7271960377693176",
+            "Travel - 0.7094622850418091",
+            "Eyewear - 0.6824725270271301",
+            "Sitting - 0.679785430431366",
+            "Cap - 0.6753742694854736"
+        ],
+        "image_id": "img_0586.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0586.jpg"
+    },
+    {
+        "brisque": 20.209443820597556,
+        "objects": [
+            "Shoe - 0.9238610863685608",
+            "Pants - 0.8413203954696655"
+        ],
+        "labels": [
+            "Water - 0.9508757591247559",
+            "Leg - 0.9179388284683228",
+            "Wood - 0.8969669342041016",
+            "Road surface - 0.8802226781845093",
+            "Textile - 0.8775500655174255",
+            "Lighting - 0.8658843040466309",
+            "Flooring - 0.8519248366355896",
+            "Shade - 0.8355517983436584",
+            "People in nature - 0.8352226614952087",
+            "Floor - 0.8296620845794678"
+        ],
+        "image_id": "img_0609.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0609.jpg"
+    },
+    {
+        "brisque": 17.277097423397635,
+        "objects": [
+            "Shoe - 0.8633456230163574",
+            "Person - 0.7733500003814697",
+            "Footwear - 0.5480205416679382"
+        ],
+        "labels": [
+            "Joint - 0.9744052886962891",
+            "Shoe - 0.9484472870826721",
+            "Wood - 0.8897546529769897",
+            "Finger - 0.8340044021606445",
+            "Thigh - 0.7951585054397583",
+            "Road surface - 0.7648237347602844",
+            "Foot - 0.7534790635108948",
+            "Human leg - 0.7484326362609863",
+            "Landscape - 0.731817364692688",
+            "Pattern - 0.71843022108078"
+        ],
+        "image_id": "img_0610.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0610.jpg"
+    },
+    {
+        "brisque": 14.539772791517834,
+        "objects": [
+            "Person - 0.8925595879554749",
+            "Pants - 0.6961411833763123",
+            "Outerwear - 0.5848474502563477"
+        ],
+        "labels": [
+            "Cloud - 0.9807246327400208",
+            "Water - 0.9761064052581787",
+            "Sky - 0.97600257396698",
+            "Leg - 0.9231943488121033",
+            "Azure - 0.8997383117675781",
+            "People in nature - 0.8967255353927612",
+            "Beach - 0.8826011419296265",
+            "Wood - 0.8695605993270874",
+            "Sunlight - 0.8481041789054871",
+            "People on beach - 0.8463457822799683"
+        ],
+        "image_id": "img_0594.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0594.jpg"
+    },
+    {
+        "brisque": 13.739159801052523,
+        "objects": [
+            "Person - 0.9089507460594177",
+            "Pants - 0.6876436471939087",
+            "Jeans - 0.558597207069397"
+        ],
+        "labels": [
+            "Water - 0.9800076484680176",
+            "Cloud - 0.9778995513916016",
+            "Sky - 0.9733891487121582",
+            "Leg - 0.9243524670600891",
+            "Ecoregion - 0.9225242137908936",
+            "Vertebrate - 0.9188666343688965",
+            "People in nature - 0.9077606201171875",
+            "Azure - 0.8941200971603394",
+            "Beach - 0.8899297714233398",
+            "Natural environment - 0.8897138237953186"
+        ],
+        "image_id": "img_0593.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0593.jpg"
+    },
+    {
+        "brisque": 13.464220320417525,
+        "objects": [
+            "Outerwear - 0.8612290024757385"
+        ],
+        "labels": [
+            "Water - 0.9786034822463989",
+            "Cloud - 0.9756816625595093",
+            "Sky - 0.9733843207359314",
+            "Outerwear - 0.9533316493034363",
+            "Leg - 0.9164599180221558",
+            "Azure - 0.8967792391777039",
+            "People in nature - 0.8953110575675964",
+            "Natural environment - 0.891926109790802",
+            "Beach - 0.8686088919639587",
+            "Wood - 0.8653674721717834"
+        ],
+        "image_id": "img_0598.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0598.jpg"
+    },
+    {
+        "brisque": 12.704974163968785,
+        "objects": [
+            "Outerwear - 0.877589762210846",
+            "Person - 0.8656638264656067"
+        ],
+        "labels": [
+            "Water - 0.9796931743621826",
+            "Cloud - 0.9794533848762512",
+            "Sky - 0.9724097847938538",
+            "Leg - 0.9152748584747314",
+            "People in nature - 0.879191517829895",
+            "Wood - 0.8699288964271545",
+            "Beach - 0.8610413074493408",
+            "Travel - 0.8206044435501099",
+            "Jacket - 0.8003005981445312",
+            "Horizon - 0.7877723574638367"
+        ],
+        "image_id": "img_0599.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0599.jpg"
+    },
+    {
+        "brisque": 12.465445151626653,
+        "objects": [
+            "Person - 0.8865086436271667",
+            "Outerwear - 0.8835384845733643"
+        ],
+        "labels": [
+            "Water - 0.9812811613082886",
+            "Cloud - 0.9771807789802551",
+            "Sky - 0.9709809422492981",
+            "Leg - 0.9101402163505554",
+            "Beach - 0.9024012684822083",
+            "People on beach - 0.8994755148887634",
+            "Azure - 0.895126223564148",
+            "People in nature - 0.8849794864654541",
+            "Wood - 0.8354552984237671",
+            "Travel - 0.8326894640922546"
+        ],
+        "image_id": "3A410545-B179-4F6F-B22E-782B0319862E.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/3A410545-B179-4F6F-B22E-782B0319862E.jpg"
+    },
+    {
+        "brisque": 12.067849465344665,
+        "objects": [
+            "Outerwear - 0.8834609389305115",
+            "Person - 0.8752522468566895"
+        ],
+        "labels": [
+            "Cloud - 0.9794373512268066",
+            "Water - 0.9792104959487915",
+            "Sky - 0.9740250706672668",
+            "Leg - 0.9227121472358704",
+            "People in nature - 0.8829434514045715",
+            "Beach - 0.8796080350875854",
+            "Wood - 0.8672190308570862",
+            "Coastal and oceanic landforms - 0.8254936337471008",
+            "Travel - 0.8166189789772034",
+            "Horizon - 0.812444806098938"
+        ],
+        "image_id": "img_0597.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0597.jpg"
+    },
+    {
+        "brisque": 11.56378631709876,
+        "objects": [
+            "Person - 0.8928505182266235",
+            "Outerwear - 0.8267068862915039"
+        ],
+        "labels": [
+            "Water - 0.9788015484809875",
+            "Cloud - 0.9782861471176147",
+            "Sky - 0.9729086756706238",
+            "Leg - 0.9151613116264343",
+            "People in nature - 0.9148627519607544",
+            "Azure - 0.8962031006813049",
+            "Beach - 0.8941294550895691",
+            "Wood - 0.8602873086929321",
+            "Coastal and oceanic landforms - 0.827828586101532",
+            "Travel - 0.8226705193519592"
+        ],
+        "image_id": "IMG_0596.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/IMG_0596.jpg"
+    },
+    {
+        "brisque": 11.462848544748766,
+        "objects": [
+            "Person - 0.8426297903060913",
+            "Pants - 0.627146303653717"
+        ],
+        "labels": [
+            "Water - 0.9790801405906677",
+            "Cloud - 0.9746304154396057",
+            "Sky - 0.970156192779541",
+            "People on beach - 0.8956231474876404",
+            "People in nature - 0.8887611627578735",
+            "Beach - 0.8846632242202759",
+            "Wood - 0.8576104044914246",
+            "Sunlight - 0.8543562889099121",
+            "Coastal and oceanic landforms - 0.8395309448242188",
+            "Travel - 0.8261111974716187"
+        ],
+        "image_id": "img_0595.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0595.jpg"
+    },
+    {
+        "brisque": 9.666466288552868,
+        "objects": [
+            "Person - 0.803277850151062",
+            "Packaged goods - 0.7952516674995422",
+            "Tableware - 0.6348058581352234",
+            "Glasses - 0.5932599306106567",
+            "Drink - 0.5018972158432007"
+        ],
+        "labels": [
+            "Smile - 0.9832649827003479",
+            "Goggles - 0.9109516739845276",
+            "Sunglasses - 0.9026568531990051",
+            "Fashion - 0.8839802145957947",
+            "Eyewear - 0.8744210600852966",
+            "Vision care - 0.8701527118682861",
+            "Travel - 0.8168282508850098",
+            "Leisure - 0.8167998194694519",
+            "Hat - 0.7723633646965027",
+            "Tin can - 0.7505106925964355"
+        ],
+        "image_id": "img_0588.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0588.jpg"
+    },
+    {
+        "brisque": 8.799598008768811,
+        "objects": [
+            "Tableware - 0.7559482455253601",
+            "Person - 0.7551910281181335",
+            "Table top - 0.5965086221694946",
+            "Glasses - 0.5239481329917908"
+        ],
+        "labels": [
+            "Smile - 0.9748460054397583",
+            "Glasses - 0.9667192697525024",
+            "Goggles - 0.9014692902565002",
+            "Hat - 0.9010995030403137",
+            "Vision care - 0.88369220495224",
+            "Eyewear - 0.8404308557510376",
+            "Sunglasses - 0.8242477178573608",
+            "Automotive design - 0.8106101751327515",
+            "Serveware - 0.8011066913604736",
+            "Sun hat - 0.7925829887390137"
+        ],
+        "image_id": "img_0590.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0590.jpg"
+    },
+    {
+        "brisque": 8.2528939467297,
+        "objects": [
+            "Person - 0.8841192126274109",
+            "Tableware - 0.7286027669906616",
+            "Sunglasses - 0.6354537010192871"
+        ],
+        "labels": [
+            "Smile - 0.9795512557029724",
+            "Daytime - 0.9441382884979248",
+            "Hat - 0.8962413668632507",
+            "Goggles - 0.8807072639465332",
+            "Vision care - 0.8694146871566772",
+            "Eyewear - 0.8606647849082947",
+            "Sunglasses - 0.8574520945549011",
+            "Public space - 0.8152663111686707",
+            "Tableware - 0.8031282424926758",
+            "Leisure - 0.7767283320426941"
+        ],
+        "image_id": "img_0589.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0589.jpg"
+    },
+    {
+        "brisque": 7.1945484911251185,
+        "objects": [
+            "Sunglasses - 0.9609867930412292",
+            "Person - 0.9053395986557007"
+        ],
+        "labels": [
+            "Smile - 0.9847725033760071",
+            "Glasses - 0.9796656966209412",
+            "Skin - 0.9758075475692749",
+            "Lip - 0.9695260524749756",
+            "Eyebrow - 0.9432326555252075",
+            "Vision care - 0.9416224956512451",
+            "Facial expression - 0.9323917627334595",
+            "White - 0.9218598008155823",
+            "Mouth - 0.9177322387695312",
+            "Sunglasses - 0.9048921465873718"
+        ],
+        "image_id": "1EC85062-B63D-43D2-A470-77AE8DF6EE1B.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/1EC85062-B63D-43D2-A470-77AE8DF6EE1B.jpg"
+    },
+    {
+        "brisque": 5.677896724979263,
+        "objects": [
+            "Person - 0.8945008516311646",
+            "Outerwear - 0.8644504547119141",
+            "Scarf - 0.6630977988243103",
+            "Glasses - 0.5249478220939636"
+        ],
+        "labels": [
+            "Face - 0.983273983001709",
+            "Glasses - 0.9764299988746643",
+            "Smile - 0.9719454050064087",
+            "Water - 0.9694961309432983",
+            "Sky - 0.9597163796424866",
+            "Goggles - 0.9432454705238342",
+            "Sunglasses - 0.9274806380271912",
+            "Vision care - 0.9135221242904663",
+            "Eyewear - 0.8814549446105957",
+            "Beach - 0.8742848634719849"
+        ],
+        "image_id": "img_0600.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0600.jpg"
+    },
+    {
+        "brisque": 5.018294854002278,
+        "objects": [
+            "Person - 0.9024777412414551",
+            "Sunglasses - 0.8566907644271851",
+            "Outerwear - 0.6337151527404785",
+            "Glasses - 0.5727503299713135"
+        ],
+        "labels": [
+            "Glasses - 0.9757572412490845",
+            "Smile - 0.9596201777458191",
+            "Vision care - 0.9561328291893005",
+            "Hairstyle - 0.9509009122848511",
+            "Goggles - 0.9167691469192505",
+            "Sunglasses - 0.9060063362121582",
+            "Eyewear - 0.8728131651878357",
+            "Travel - 0.845255434513092",
+            "Street fashion - 0.8232691884040833",
+            "Cool - 0.8201536536216736"
+        ],
+        "image_id": "img_0592.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0592.jpg"
+    },
+    {
+        "brisque": 4.856295265957868,
+        "objects": [
+            "Person - 0.9127010703086853",
+            "Outerwear - 0.8653630018234253",
+            "Scarf - 0.8174221515655518"
+        ],
+        "labels": [
+            "Glasses - 0.9760966897010803",
+            "Water - 0.9709188938140869",
+            "Sky - 0.9634127616882324",
+            "Cloud - 0.9626251459121704",
+            "Smile - 0.9406164288520813",
+            "Leg - 0.9107634425163269",
+            "Goggles - 0.9106543660163879",
+            "Sunglasses - 0.9082553386688232",
+            "Beach - 0.9027201533317566",
+            "Vision care - 0.9007045030593872"
+        ],
+        "image_id": "img_0605.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0605.jpg"
+    },
+    {
+        "brisque": 4.687535481275489,
+        "objects": [
+            "Sunglasses - 0.9450243711471558",
+            "Person - 0.9235050082206726",
+            "Outerwear - 0.8509154915809631",
+            "Grooming trimmer - 0.6341276168823242"
+        ],
+        "labels": [
+            "Glasses - 0.9787603616714478",
+            "Smile - 0.9629701972007751",
+            "Hand - 0.9595038294792175",
+            "Outerwear - 0.9522532224655151",
+            "Goggles - 0.9471445083618164",
+            "Shoulder - 0.9408636093139648",
+            "Vision care - 0.9376427531242371",
+            "Sunglasses - 0.9264626502990723",
+            "Textile - 0.8757487535476685",
+            "Street fashion - 0.8639829754829407"
+        ],
+        "image_id": "img_0583.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0583.jpg"
+    },
+    {
+        "brisque": 4.266702118378902,
+        "objects": [
+            "Person - 0.8761371970176697",
+            "Outerwear - 0.8588024377822876",
+            "Scarf - 0.593636691570282"
+        ],
+        "labels": [
+            "Face - 0.9832951426506042",
+            "Glasses - 0.9800741672515869",
+            "Water - 0.9796169400215149",
+            "Smile - 0.9777527451515198",
+            "Sky - 0.9649611115455627",
+            "Cloud - 0.9544496536254883",
+            "Photograph - 0.9415076971054077",
+            "Goggles - 0.937957227230072",
+            "Sunglasses - 0.9302074909210205",
+            "Vision care - 0.9216231107711792"
+        ],
+        "image_id": "img_0601.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0601.jpg"
+    },
+    {
+        "brisque": 3.9740393455871015,
+        "objects": [
+            "Person - 0.9055255651473999",
+            "Scarf - 0.8879135251045227",
+            "Luggage & bags - 0.8024691939353943",
+            "Footwear - 0.7514424324035645",
+            "Shoe - 0.6669059991836548"
+        ],
+        "labels": [
+            "Glasses - 0.9824168086051941",
+            "Water - 0.9704492092132568",
+            "Sky - 0.9654180407524109",
+            "Smile - 0.9590272903442383",
+            "Vision care - 0.9373067021369934",
+            "Sunglasses - 0.9311798214912415",
+            "Goggles - 0.9253009557723999",
+            "Leg - 0.9111324548721313",
+            "People on beach - 0.8837767243385315",
+            "Beach - 0.8740459680557251"
+        ],
+        "image_id": "img_0604.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0604.jpg"
+    },
+    {
+        "brisque": 3.9434290173198576,
+        "objects": [
+            "Person - 0.9073530435562134",
+            "Pants - 0.6921430826187134",
+            "Luggage & bags - 0.6018523573875427"
+        ],
+        "labels": [
+            "Water - 0.9781643152236938",
+            "Sky - 0.9693778157234192",
+            "Cloud - 0.9363409876823425",
+            "Leg - 0.9252040386199951",
+            "People in nature - 0.9089069962501526",
+            "Beach - 0.9071913361549377",
+            "People on beach - 0.9069555401802063",
+            "Azure - 0.8936760425567627",
+            "Swimwear - 0.8620069622993469",
+            "Flash photography - 0.8584300875663757"
+        ],
+        "image_id": "img_0603.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0603.jpg"
+    },
+    {
+        "brisque": 3.495338064155675,
+        "objects": [
+            "Sunglasses - 0.934249222278595",
+            "Person - 0.8792032599449158",
+            "Glasses - 0.5460301637649536",
+            "Outerwear - 0.5178257822990417"
+        ],
+        "labels": [
+            "Hair - 0.9827312231063843",
+            "Smile - 0.9821015000343323",
+            "Glasses - 0.9791354537010193",
+            "Head - 0.971712052822113",
+            "Vision care - 0.9549065828323364",
+            "Hairstyle - 0.9509009122848511",
+            "Facial expression - 0.9324519038200378",
+            "Sunglasses - 0.9112028479576111",
+            "Goggles - 0.9057532548904419",
+            "Eyewear - 0.8985487818717957"
+        ],
+        "image_id": "img_0591.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0591.jpg"
+    },
+    {
+        "brisque": 3.249231558755781,
+        "objects": [
+            "Person - 0.8755946755409241",
+            "Outerwear - 0.8487343788146973",
+            "Sunglasses - 0.7812316417694092"
+        ],
+        "labels": [
+            "Water - 0.9797223210334778",
+            "Glasses - 0.9756405353546143",
+            "Sky - 0.965244710445404",
+            "Cloud - 0.9598016738891602",
+            "Sunglasses - 0.9294833540916443",
+            "Goggles - 0.9292567372322083",
+            "Vision care - 0.9124672412872314",
+            "Beach - 0.8775824904441833",
+            "Eyewear - 0.8760919570922852",
+            "Sleeve - 0.8724486827850342"
+        ],
+        "image_id": "img_0602.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0602.jpg"
+    },
+    {
+        "brisque": 1.5778014234940372,
+        "objects": [
+            "Scarf - 0.9404885172843933",
+            "Person - 0.9215759634971619",
+            "Outerwear - 0.8476675748825073",
+            "Glasses - 0.5341662168502808"
+        ],
+        "labels": [
+            "Glasses - 0.9784928560256958",
+            "Cloud - 0.9755023717880249",
+            "Water - 0.9742484092712402",
+            "Sky - 0.9618256688117981",
+            "Outerwear - 0.9539462924003601",
+            "Smile - 0.9318163394927979",
+            "Goggles - 0.9308033585548401",
+            "Sunglasses - 0.9303841590881348",
+            "Leg - 0.9134431481361389",
+            "Vision care - 0.9041972756385803"
+        ],
+        "image_id": "img_0606.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0606.jpg"
+    },
+    {
+        "brisque": 1.573202729582107,
+        "objects": [
+            "Sunglasses - 0.9047825336456299",
+            "Person - 0.8991706967353821",
+            "Outerwear - 0.7958055138587952"
+        ],
+        "labels": [
+            "Smile - 0.982412576675415",
+            "Skin - 0.9746981859207153",
+            "Glasses - 0.9733508229255676",
+            "Goggles - 0.9338825345039368",
+            "Vision care - 0.9287459254264832",
+            "Sunglasses - 0.9229519367218018",
+            "Mouth - 0.9203084111213684",
+            "Happy - 0.8703145980834961",
+            "Eyewear - 0.862594723701477",
+            "Gesture - 0.852604866027832"
+        ],
+        "image_id": "img_0584.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0584.jpg"
+    },
+    {
+        "brisque": 0.48642363250016274,
+        "objects": [
+            "Shoe - 0.8804209232330322",
+            "Outerwear - 0.8134467601776123",
+            "Person - 0.8101143836975098",
+            "License plate - 0.7757666707038879",
+            "Pants - 0.7487590909004211",
+            "Footwear - 0.6617890000343323",
+            "Top - 0.5651625394821167"
+        ],
+        "labels": [
+            "Footwear - 0.9819353222846985",
+            "Outerwear - 0.9509127140045166",
+            "Shoe - 0.948845386505127",
+            "Leg - 0.9166826605796814",
+            "Street fashion - 0.8730015158653259",
+            "Sleeve - 0.8724485635757446",
+            "Waist - 0.8570533990859985",
+            "Thigh - 0.8481138348579407",
+            "Knee - 0.8418266177177429",
+            "Flooring - 0.798163115978241"
+        ],
+        "image_id": "img_0608.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0608.jpg"
+    },
+    {
+        "brisque": -2.078566993459191,
+        "objects": [
+            "Sunglasses - 0.9647679328918457",
+            "Person - 0.9025623202323914",
+            "Outerwear - 0.7949199676513672"
+        ],
+        "labels": [
+            "Hair - 0.9827426075935364",
+            "Glasses - 0.9800344109535217",
+            "Lip - 0.9700730443000793",
+            "Smile - 0.963718056678772",
+            "Hairstyle - 0.9509009122848511",
+            "Daytime - 0.945955216884613",
+            "Shoulder - 0.9455273747444153",
+            "Vision care - 0.9424561262130737",
+            "Facial expression - 0.9325580596923828",
+            "Mouth - 0.9189326167106628"
+        ],
+        "image_id": "img_0577.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0577.jpg"
+    },
+    {
+        "brisque": -2.775920520161236,
+        "objects": [
+            "Person - 0.863940954208374",
+            "Sunglasses - 0.8546478748321533"
+        ],
+        "labels": [
+            "Smile - 0.9727569818496704",
+            "Glasses - 0.9710323214530945",
+            "Lip - 0.9701937437057495",
+            "Chin - 0.965861976146698",
+            "Outerwear - 0.9549740552902222",
+            "Daytime - 0.9460499882698059",
+            "Vision care - 0.9379712343215942",
+            "Eyebrow - 0.9375905990600586",
+            "Mouth - 0.9318459630012512",
+            "Goggles - 0.916740357875824"
+        ],
+        "image_id": "img_0576.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0576.jpg"
+    },
+    {
+        "brisque": -10.213492044607875,
+        "objects": [
+            "Sunglasses - 0.9415335059165955",
+            "Person - 0.9087170958518982",
+            "Outerwear - 0.8742606043815613"
+        ],
+        "labels": [
+            "Glasses - 0.9803130626678467",
+            "Lip - 0.9698033928871155",
+            "Outerwear - 0.9533196687698364",
+            "Hairstyle - 0.9509009718894958",
+            "Daytime - 0.9444193243980408",
+            "Vision care - 0.9436381459236145",
+            "Smile - 0.9389649629592896",
+            "Goggles - 0.9308075308799744",
+            "Sunglasses - 0.9235012531280518",
+            "Mouth - 0.9108636379241943"
+        ],
+        "image_id": "img_0578.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0578.jpg"
+    },
+    {
+        "brisque": -11.600594110302524,
+        "objects": [
+            "Sunglasses - 0.9539058208465576",
+            "Person - 0.8996049761772156",
+            "Outerwear - 0.8709329962730408"
+        ],
+        "labels": [
+            "Glasses - 0.9807617664337158",
+            "Smile - 0.9774867296218872",
+            "Facial expression - 0.9324292540550232",
+            "Vision care - 0.9305098056793213",
+            "Sunglasses - 0.9257960319519043",
+            "Mouth - 0.9232122898101807",
+            "Goggles - 0.884955108165741",
+            "Eyewear - 0.8720483183860779",
+            "Happy - 0.860093891620636",
+            "Travel - 0.8410719633102417"
+        ],
+        "image_id": "img_0579.jpg",
+        "imagePath": "file:///home/awman/Desktop/Shared/Tese/Development/Photos/original/img_0579.jpg"
+    }
+]

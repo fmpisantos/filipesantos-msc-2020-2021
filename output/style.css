@@ -1,0 +1,34 @@
+/* * {box-sizing: border-box;} */
+
+.container {
+    position: relative;
+    max-width: 200px;
+    max-height: 200px;
+    display: inline-block;
+  }
+  
+  .image {
+    /* display: block; */
+    display: inline-block; *display: inline;
+    max-width: 200px;
+    max-height: 200px;
+  }
+  
+  .overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    max-width: 200px;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
